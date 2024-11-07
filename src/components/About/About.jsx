@@ -1,6 +1,6 @@
 import React from 'react'
 import './About.css'
-import aboutimage from '../../assets/about.jpeg'
+import aboutimage from '../../assets/About.jpeg'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faPlay } from '@fortawesome/free-solid-svg-icons'
 const About = ({setPlayState}) => {
